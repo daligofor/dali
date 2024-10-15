@@ -87,7 +87,7 @@ body{
     font-weight: bold;
     opacity: 0;
     animation: animate 1s ease-in-out 1 forwards;
-    color: rgb(226, 43, 202);
+    color: rgb(255, 6, 6);
 }
 
 .content .des{
